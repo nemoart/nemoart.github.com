@@ -249,8 +249,8 @@ border: 6px solid #DDD;
 margin-bottom: 20px;
 }
 
-th, td{border-top:1px #dcdcdc solid; border-left:1px #dcdcdc solid;padding: 10px;}
-table {border-bottom:1px #dcdcdc solid; border-right: 1px #dcdcdc solid;}
+th, td{border-top:1px #ffffff solid; border-left:1px #ffffff solid;padding: 10px;}
+table {border-bottom:1px #ffffff solid; border-right: 1px #ffffff solid;}
 
 /* */
 
