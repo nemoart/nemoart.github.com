@@ -17,6 +17,7 @@
    urls: [ "http://fontface.kr/NanumGothic/css" ]
   }});
  });
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
 
 /*
 $('a').hover(
@@ -67,7 +68,6 @@ $('a').hover(
           {% else %}
             <li><a href="/about.html">About</a></li><span class="seperator">&nbsp;&nbsp;</span>
           {% endif %}
-
           {% if page.url == '/gallery.html' %}
             <li><a class="selected" href="/gallery.html">Gallery</a></li><span class="seperator">&nbsp;&nbsp;</span>
           {% else %}
@@ -78,8 +78,7 @@ $('a').hover(
           {% else %}
             <li><a href="/tutorial.html">Tutorial</a></li><span class="seperator">&nbsp;&nbsp;</span>
           {% endif %}
-            <li><a href="http://www.facebook.com/nemoart.page"><img class="atom-img" src="/images/facebook-icon.png"></a>
-</li>
+            <li><a href="http://www.facebook.com/nemoart.page"><img class="atom-img" src="/images/facebook-icon.png"></a></li>
         </ol>
     </div>
   
