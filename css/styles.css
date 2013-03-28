@@ -37,11 +37,11 @@ font-weight:400;
 color: #39c;
 	
 text-decoration: none;
-font-family: Helvetica, sans-serif, "NanumGothic", Arial;
+font-family: Helvetica, sans-serif,  Arial;
 }
 
 h1, h2, h3, h4 ,h5, h6 {
-font-family: "NanumGothic", Helvetica, sans-serif, Arial;
+font-family:  Helvetica, sans-serif, Arial;
 color: #222;
 }
 
@@ -59,7 +59,7 @@ h5 { font-size: 18px; }
 h6 { font-size: 16px; }
 
 p {
-font-family: "NanumGothic", Helvetica, sans-serif, Arial;
+font-family:  Helvetica, sans-serif, Arial;
 font-size: 14px;
 color: #444;
 margin-top: 20px;
@@ -182,13 +182,13 @@ display: block;
 
 .post ol, ul {
 line-height: 1.8em;
-font-family: "NanumGothic", Helvetica, sans-serif, Arial;
+font-family:  Helvetica, sans-serif, Arial;
 font-size: 14px;
 color: #323232;
 }
 
 .post-title {
-font-family: "NanumGothic", Helvetica, sans-serif, Arial;
+font-family:  Helvetica, sans-serif, Arial;
 font-weight: bold;
 font-size: 24px;
 color: #323232;
@@ -249,7 +249,7 @@ border: 6px solid #DDD;
 margin-bottom: 20px;
 }
 
-th, td{font-family: "NanumGothic", Helvetica, sans-serif, Arial;
+th, td{font-family: Helvetica, sans-serif, Arial;
 border-top:1px #ffffff solid; border-left:1px #ffffff solid;padding: 10px;}
 table {border-bottom:1px #ffffff solid; border-right: 1px #ffffff solid;}
 
